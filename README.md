@@ -1,4 +1,4 @@
-# Impact_of_Remote_Work-
+# Impact_of_Remote_Work
 **Impact of Remote Work on Employee Productivity and Well-Being**
 
 **Overview**
@@ -20,5 +20,5 @@ Well-Being Metrics: Assess metrics related to employee satisfaction, stress leve
 Statistical Methods: Use statistical techniques to test hypotheses and validate findings.
 
 **Contact**
-For questions, suggestions, or feedback, please reach out to [mishraadis1620@hmail.com].
+For questions, suggestions, or feedback, please reach out to [mishraadis1620@gmail.com].
 
